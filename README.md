@@ -1,2 +1,2 @@
 # umemleak
-use space memleak detect tool, reimplement of "kmemleak" in user space.
+user space memleak detect tool, reimplement of "kmemleak" in user space.
